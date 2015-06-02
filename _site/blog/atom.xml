@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Mervodactyl's Super Blog</title>
+    <link href="http://mervodactyl.github.io/blog/atom.xml" rel="self"/>
+    <link href="http://mervodactyl.github.io/blog"/>
+      <updated>2015-06-03T00:47:45+01:00</updated>
+      <id>http://mervodactyl.github.io/blog</id>
+        <author>
+          <name>Mervé Silk</name>
+          <email>mervodactyl@gmail.com</email>
+        </author>
+
+  
+    <entry>
+      <title>Mervodactyl makes her first blog entry, launch day is upon us!</title>
+        <link href="http://mervodactyl.github.io/blog/2015/06/01/mervodactyl-site-launched"/>
+          <updated>2015-06-01T00:00:00+01:00</updated>
+        <id>http://mervodactyl.github.io//blog/2015/06/01/mervodactyl-site-launched</id>
+      <content type="html">&lt;h1 id=&quot;here-is-my-very-first-entry&quot;&gt;Here is my very first entry!&lt;/h1&gt;
+&lt;p&gt;From here on out its all about the GitHub, Ruby, Markdown and Jekyll glory
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__&lt;/p&gt;
+
+&lt;p&gt;Hello World! Thanks for listening! I’d like to take the time to say my name is Mervé Silk and I’m a &lt;strong&gt;FANTASTIC&lt;/strong&gt; programmer who is here &lt;em&gt;to show you just how amazing I am and how in love with computering and meddling I am too!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;See you again soooooon!&lt;/p&gt;
+</content>
+    </entry>
+  
+
+</feed>
